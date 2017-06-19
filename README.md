@@ -26,3 +26,11 @@ Version      | Downloads (32-bit)                                               
 0.10.0_rc2   | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltopdf-0.10.0_rc2-static-i386.tar.bz2)    &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltoimage-0.10.0_rc2-static-i386.tar.bz2)    &emsp; [libwkhtmltox](https://downloads.wkhtmltopdf.org/obsolete/linux/libwkhtmltox-0.10.0_rc2-i386.tar.bz2)    | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltopdf-0.10.0_rc2-static-amd64.tar.bz2)    &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltoimage-0.10.0_rc2-static-amd64.tar.bz2)    &emsp; [libwkhtmltox](https://downloads.wkhtmltopdf.org/obsolete/linux/libwkhtmltox-0.10.0_rc2-amd64.tar.bz2)
 0.11.0_rc1   | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltopdf-0.11.0_rc1-static-i386.tar.bz2)    &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltoimage-0.11.0_rc1-static-i386.tar.bz2)    &emsp; [libwkhtmltox](https://downloads.wkhtmltopdf.org/obsolete/linux/libwkhtmltox-0.11.0_rc1-i386.tar.bz2)    | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltopdf-0.11.0_rc1-static-amd64.tar.bz2)    &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltoimage-0.11.0_rc1-static-amd64.tar.bz2)    &emsp; [libwkhtmltox](https://downloads.wkhtmltopdf.org/obsolete/linux/libwkhtmltox-0.11.0_rc1-amd64.tar.bz2)
 
+## OS X
+
+Version      | Downloads (32-bit)
+-------      | ------------------
+0.9.9        | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltopdf-0.9.9-OS-X.i368)
+0.10.0_beta4 | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltopdf-0.10.0_beta4_OS-X.i386)        &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltoimage-0.10.0_beta4-OS-X.i386)
+0.10.0_rc2   | [wkhtmltopdf](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltopdf-OSX-0.10.0_rc2-static.tar.bz2) &emsp; [wkhtmltoimage](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltoimage-OSX-0.10.0_rc2-static.tar.bz2) &emsp; [libwkhtmltox](https://downloads.wkhtmltopdf.org/obsolete/osx/libwkhtmltox-OSX-0.10.0_rc2.tar.bz2)
+0.11.0_rc1   | [disk image](https://downloads.wkhtmltopdf.org/obsolete/osx/wkhtmltopdf.dmg)
